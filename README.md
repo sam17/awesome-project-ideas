@@ -220,6 +220,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 - Build YAML gen using natural language
   - Can be use-case specific. Build pipelines? Kube?
 - Code Completion semantic improvements
+- Paper Summarisation from arxiv
 
 ---
 
